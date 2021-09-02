@@ -1,0 +1,343 @@
+<script>
+
+$("#Field").change(function(){
+   if($(this).val()=="traga-fd")
+   {    
+       $(".traga-fd-1").show();
+   }
+    else
+    {
+        $(".traga-fd-1").hide();
+    }
+})
+$("#Field").change(function(){
+   if($(this).val()=="traga-box")
+   {    
+       $(".traga-box-1").show();
+   }
+    else
+    {
+        $(".traga-box-1 ").hide();
+    }
+})
+$("#Field").change(function(){
+   if($(this).val()=="nlr-55t")
+   {    
+       $(".nlr55-t-1").show();
+   }
+    else
+    {
+        $(".nlr55-t-1").hide();
+    }
+})
+$("#Field").change(function(){
+   if($(this).val()=="nlr-55tx")
+   {    
+       $(".nlr-55-tx-1").show();
+   }
+    else
+    {
+        $(".nlr-55-tx-1").hide();
+    }
+})
+$("#Field").change(function(){
+   if($(this).val()=="nlr-55tlx")
+   {    
+       $(".nlr-55-tlx-1").show();
+   }
+    else
+    {
+        $(".nlr-55-tlx-1").hide();
+    }
+})
+$("#Field").change(function(){
+   if($(this).val()=="nlr-55b")
+   {    
+       $(".nlr-55-b-1").show();
+   }
+    else
+    {
+        $(".nlr-55-b-1").hide();
+    }
+})
+$("#Field").change(function(){
+   if($(this).val()=="nlr-55bx")
+   {    
+       $(".nlr-55-bx-1").show();
+   }
+    else
+    {
+        $(".nlr-55-bx-1").hide();
+    }
+})
+$("#Field").change(function(){
+   if($(this).val()=="nlr-55blx")
+   {    
+       $(".nlr-55-blx-1").show();
+   }
+    else
+    {
+        $(".nlr-55-blx-1").hide();
+    }
+})
+$("#Field").change(function(){
+   if($(this).val()=="nqr-71ec")
+   {    
+       $(".nqr-71-ec-1").show();
+   }
+    else
+    {
+        $(".nqr-71-ec-1").hide();
+    }
+})
+$("#Field").change(function(){
+   if($(this).val()=="nmr-71std")
+   {    
+       $(".nmr-71-std-1").show();
+   }
+    else
+    {
+        $(".nmr-71-std-1").hide();
+    }
+})
+
+$("#Field").change(function(){
+   if($(this).val()=="nmr-71stdl")
+   {    
+       $(".nmr-71-stdl-1").show();
+   }
+    else
+    {
+        $(".nmr-71-stdl-1").hide();
+    }
+})
+$("#Field").change(function(){
+   if($(this).val()=="nmr-71-5,8")
+   {    
+       $(".nmr-71-58-1").show();
+   }
+    else
+    {
+        $(".nmr-71-58-1").hide();
+    }
+})
+$("#Field").change(function(){
+   if($(this).val()=="nmr-71-6,1")
+   {    
+       $(".nmr-71-61-1").show();
+   }
+    else
+    {
+        $(".nmr-71-61-1").hide();
+    }
+})
+$("#Field").change(function(){
+   if($(this).val()=="nmr-81-tshd")
+   {    
+       $(".nmr-81-tshd-1").show();
+   }
+    else
+    {
+        $(".nmr-81-tshd-1").hide();
+    }
+})
+
+$("#Field").change(function(){
+   if($(this).val()=="frr-90-q")
+   {    
+       $(".frr-90-q-1").show();
+   }
+    else
+    {
+        $(".frr-90-q-1").hide();
+    }
+})
+$("#Field").change(function(){
+   if($(this).val()=="ftr-90-s")
+   {    
+       $(".ftr-90-s-1").show();
+   }
+    else
+    {
+        $(".frr-90-s-1").hide();
+    }
+})
+$("#Field").change(function(){
+   if($(this).val()=="ftr-90-t")
+   {    
+       $(".ftr-90-t-1").show();
+   }
+    else
+    {
+        $(".ftr-90-t-1").hide();
+    }
+})
+$("#Field").change(function(){
+   if($(this).val()=="fvr-34-l")
+   {    
+       $(".fvr-34-l-1").show();
+   }
+    else
+    {
+        $(".fvr-34-l-1").hide();
+    }
+})
+$("#Field").change(function(){
+   if($(this).val()=="fvr-34-p")
+   {    
+       $(".fvr-34-p-1").show();
+   }
+    else
+    {
+        $(".fvr-34-p-1").hide();
+    }
+})
+$("#Field").change(function(){
+   if($(this).val()=="fvr-34-pd")
+   {    
+       $(".fvr-34-pd-1").show();
+   }
+    else
+    {
+        $(".fvr-34-pd-1").hide();
+    }
+})
+
+$("#Field").change(function(){
+   if($(this).val()=="fvr-34-q")
+   {    
+       $(".fvr-34-q-1").show();
+   }
+    else
+    {
+        $(".fvr-34-q-1").hide();
+    }
+})
+
+$("#Field").change(function(){
+   if($(this).val()=="fvr-34-s")
+   {    
+       $(".fvr-34-s-1").show();
+   }
+    else
+    {
+        $(".fvr-34-s-1").hide();
+    }
+})
+$("#Field").change(function(){
+   if($(this).val()=="fvr-34-u")
+   {    
+       $(".fvr-34-u-1").show();
+   }
+    else
+    {
+        $(".fvr-34-u-1").hide();
+    }
+})
+$("#Field").change(function(){
+   if($(this).val()=="fvm-34-n")
+   {    
+       $(".fvm-34-n-1").show();
+   }
+    else
+    {
+        $(".fvm-34-n-1").hide();
+    }
+})
+$("#Field").change(function(){
+   if($(this).val()=="fvm-34-u")
+   {    
+       $(".fvm-34-u-1").show();
+   }
+    else
+    {
+        $(".fvm-34-u-1").hide();
+    }
+})
+
+$("#Field").change(function(){
+   if($(this).val()=="fvm-34-uhp")
+   {    
+       $(".fvm-34-uhp-1").show();
+   }
+    else
+    {
+        $(".fvm-34-uhp-1").hide();
+    }
+})
+$("#Field").change(function(){
+   if($(this).val()=="fvm-34-rhp")
+   {    
+       $(".fvm-34-rhp-1").show();
+   }
+    else
+    {
+        $(".fvm-34-rhp-1").hide();
+    }
+})
+$("#Field").change(function(){
+   if($(this).val()=="fvz-34-nhp-1")
+   {    
+       $(".fvz-34-nhp-1").show();
+   }
+    else
+    {
+        $(".fvz-34-nhp-1").hide();
+    }
+})
+
+$("#Field").change(function(){
+   if($(this).val()=="fvz-34-uhp")
+   {    
+       $(".fvz-34-uhp-1").show();
+   }
+    else
+    {
+        $(".fvz-34-uhp-1").hide();
+    }
+})
+$("#Field").change(function(){
+   if($(this).val()=="fvz-34-lhp")
+   {    
+       $(".fvz-34-lhp-1").show();
+   }
+    else
+    {
+        $(".fvz-34-lhp-1").hide();
+    }
+})
+
+
+$("#Field").change(function(){
+   if($(this).val()=="gvr-34-jhpabs")
+   {    
+       $(".gvr-34-jhpabs-1").show();
+   }
+    else
+    {
+        $(".gvr-34-jhpabs-1").hide();
+    }
+})
+$("#Field").change(function(){
+   if($(this).val()=="gvr-34-khpabs")
+   {    
+       $(".gvr-34-khpabs-1").show();
+   }
+    else
+    {
+        $(".gvr-34-khpabs-1").hide();
+    }
+})
+
+$("#Field").change(function(){
+   if($(this).val()=="gxz-60-kabs")
+   {    
+       $(".gxz-60-kabs-1").show();
+   }
+    else
+    {
+        $(".gxz-60-kabs-1").hide();
+    }
+})
+
+</script>
